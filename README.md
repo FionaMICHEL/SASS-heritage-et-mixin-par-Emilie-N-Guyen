@@ -1,1 +1,1 @@
-# SASS-heritage-et-mixin-par-Emilie-N-Guyen
+# SASS : héritage et mixin par Émilie N'Guyen
